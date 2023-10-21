@@ -1,0 +1,44 @@
+.nav ul li a {
+  text-decoration: none;
+  padding: 2px;
+  color: black;
+}
+
+.sin-viñetas {
+  list-style-type: none;
+  line-height: 2.3;
+
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sin-viñetas2 {
+  list-style-type: none;
+  display: flex;
+  font-size: 10px;
+}
+body {
+  background-image: url("../img/emilia-home.jpg");
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: calc(80%);
+}
+
+h3 {
+  line-height: 1;
+  font-size: 30px;
+  padding-left: 40px;
+  padding-top: 100px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  line-height: 1.3;
+  text-align: left;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(255, 255, 255, 0.3);
+  position: relative;
+  top: 140px;
+}
