@@ -1,0 +1,50 @@
+
+.ul li a {
+    margin-right: 10px;
+  color:black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.sin-viñetas_a {
+  list-style-type: none;
+  line-height: 4;
+  display: flex;
+  height: 60px;
+  font-size: 15px;
+  background-color: rgba(255, 255, 255, 0.3);
+  justify-content: flex-end;
+  margin-right: 10px;
+  color:black;
+  position: relative;
+  top: 10px;
+ 
+}
+
+.sin-viñetas_b {
+  list-style-type: none;
+  line-height: 2.3;
+  display: flex;
+  margin-left: 120px;
+  font-size: 20px;
+  margin-right: 10px;
+  justify-content: flex-end;
+  margin-right: px;
+}
+.img_fondo_header {
+  background-repeat: no-repeat;
+  background-image: url("../img/emilia-music-top.jpg");
+  width: "100";
+}
+
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.h4{
+
+    position: relative;
+    top: 30px;
+}
